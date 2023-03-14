@@ -20,3 +20,18 @@ body{
     font-family: Arial, Helvetica, sans-serif;
     font-weight: 25px;    
 }
+
+img {
+    width: 200px;
+    height: auto;
+    border: 5px dotted #456533;
+    border-radius: 8px;
+}
+
+ul.places {
+    list-style-type: none;
+    text-align: center;
+    background-color: blanchedalmond;
+    box-shadow: 5px 5px 5px blue;
+    padding: 20px;
+}
